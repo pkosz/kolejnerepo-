@@ -49,3 +49,7 @@ linking...
 Program Size: Code=2404 RO-data=32 RW-data=8 ZI-data=1272  
 FromELF: creating hex file...
 ".\ppsw.hex" - 0 Errors, 10 Warning(s).
+Clean started: Project: 'ppsw.hex'
+   deleting intermediate output files for target 'Target 1'
+Clean started: Project: 'ppsw.hex'
+   deleting intermediate output files for target 'Target 1'
